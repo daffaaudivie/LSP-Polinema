@@ -33,24 +33,22 @@ Konfirmasi penghapusan untuk menghapus data.
 
 4. Kategori Surat
 a. Lihat Kategori
-
+<img width="1920" height="875" alt="image" src="https://github.com/user-attachments/assets/9d5254f1-c55e-4315-ab23-6ad2d062d6c0" />
 Klik menu Kategori Surat.
-
 Tabel kategori menampilkan daftar kategori surat.
 
 b. Tambah Kategori
-
+<img width="787" height="611" alt="image" src="https://github.com/user-attachments/assets/12e704d9-2c4f-4e50-8f27-f97ba5d885e4" />
 Klik tombol + Tambah Kategori.
-
 Masukkan nama kategori, lalu klik Simpan.
 
 c. Edit Kategori
-
+<img width="792" height="621" alt="image" src="https://github.com/user-attachments/assets/29d226f0-e708-4525-8228-a3318f8f2352" />
 Klik tombol Edit pada baris kategori.
-
 Ubah nama kategori lalu klik Update.
 
 d. Hapus Kategori
+<img width="1920" height="881" alt="image" src="https://github.com/user-attachments/assets/65d5b82d-80c7-4c3d-a58f-afeec15ec3ea" />
 
 Klik tombol Hapus untuk menghapus kategori.
 
